@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    align-items: center;
+    height: max-content;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 50px;
+  }
+
+  .tabSelected {
+      background-color: gold;
+      padding: 5px 10px;
+      border-radius: 15px;
+  }
